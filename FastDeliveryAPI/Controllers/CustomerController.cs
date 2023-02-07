@@ -23,7 +23,7 @@ public class CustomerController : ControllerBase
         return Ok(customers);
     }
 
-    [HttpPost]
+    [HttpPost("Add-Customer")]
     public async Task<ActionResult> CreateCustomer(Customer customer)
     {
         if (ModelState.IsValid)
@@ -33,7 +33,7 @@ public class CustomerController : ControllerBase
         }
         return Ok(customer);
     }
-    [HttpPut]
+    [HttpPut("Modify-Customer")]
     public async Task<ActionResult> ModifyCustomer(Customer customer)
     {
         if (ModelState.IsValid)
@@ -51,7 +51,7 @@ public class CustomerController : ControllerBase
         return Ok(customer);
     }
 
-    [HttpDelete("DeleteCustomer/{id}")]
+    [HttpDelete("Delete-Customer/{id}")]
     public ActionResult DeleteCustomer(int id)
     {
         var objects = _context.Customers.Find(id);
