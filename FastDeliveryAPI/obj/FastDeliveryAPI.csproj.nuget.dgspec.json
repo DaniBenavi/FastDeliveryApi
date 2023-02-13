@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Escritorio\\Modulo 1\\FastDeliveryAPI\\FastDeliveryAPI.csproj": {}
+    "D:\\Escritorio\\Modulo 1\\FastDeliveryApi\\FastDeliveryAPI.csproj": {}
   },
   "projects": {
-    "D:\\Escritorio\\Modulo 1\\FastDeliveryAPI\\FastDeliveryAPI.csproj": {
+    "D:\\Escritorio\\Modulo 1\\FastDeliveryApi\\FastDeliveryAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Escritorio\\Modulo 1\\FastDeliveryAPI\\FastDeliveryAPI.csproj",
+        "projectUniqueName": "D:\\Escritorio\\Modulo 1\\FastDeliveryApi\\FastDeliveryAPI.csproj",
         "projectName": "FastDeliveryAPI",
-        "projectPath": "D:\\Escritorio\\Modulo 1\\FastDeliveryAPI\\FastDeliveryAPI.csproj",
+        "projectPath": "D:\\Escritorio\\Modulo 1\\FastDeliveryApi\\FastDeliveryAPI.csproj",
         "packagesPath": "C:\\Users\\Daniel Benavides\\.nuget\\packages\\",
-        "outputPath": "D:\\Escritorio\\Modulo 1\\FastDeliveryAPI\\obj\\",
+        "outputPath": "D:\\Escritorio\\Modulo 1\\FastDeliveryApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel Benavides\\AppData\\Roaming\\NuGet\\NuGet.Config"

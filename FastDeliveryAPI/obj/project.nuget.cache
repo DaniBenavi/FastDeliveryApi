@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M8AcXoiM91irQmic1U9b0UGt0N9Qt4MltH/mw4iheR6ueKx3z2YJLFcTIxvAfHChcWibgmGOwIM7mnrdCeRENA==",
+  "dgSpecHash": "9iRzfrgnIOVF59CL8eS8obuyn3PslfrCleGCd9XJMsrmHJSgpwxCLFkBCIWFq0t3W3Fv1EK7aigacvHyDismFg==",
   "success": true,
-  "projectFilePath": "D:\\Escritorio\\Modulo 1\\FastDeliveryAPI\\FastDeliveryAPI.csproj",
+  "projectFilePath": "D:\\Escritorio\\Modulo 1\\FastDeliveryApi\\FastDeliveryAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daniel Benavides\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Daniel Benavides\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
