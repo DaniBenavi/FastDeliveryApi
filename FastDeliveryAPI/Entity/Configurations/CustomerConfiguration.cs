@@ -6,7 +6,7 @@ namespace FastDeliveryAPI.Data.Configurations;
 
 public class CustomerConfiguration : IEntityTypeConfiguration<Customer>
 {
-    string hola = "";
+
     public void Configure(EntityTypeBuilder<Customer> builder)
     {
         builder.HasKey(b => b.Id);
